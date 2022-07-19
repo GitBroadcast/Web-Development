@@ -1,0 +1,34 @@
+.container {
+  background-color: #271d3b;
+  padding: 25px 10px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.onlyNavElements {
+  display: none;
+}
+.mobileNavView {
+  display: grid;
+  justify-items: center;
+  z-index: 2;
+}
+
+@media (min-width: 640px) {
+  .isActive {
+    display: none;
+  }
+  .container {
+    padding: 15px 0;
+  }
+  .wrapper {
+    justify-content: space-around;
+  }
+  .onlyNavElements {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
