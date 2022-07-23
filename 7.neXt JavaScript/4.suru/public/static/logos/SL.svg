@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2088">
+      <stop
+         style="stop-color:#271d3b;stop-opacity:1;"
+         offset="0.33333334"
+         id="stop2084" />
+      <stop
+         style="stop-color:#8360c3;stop-opacity:0.79425836;"
+         offset="1"
+         id="stop2086" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient2088"
+       id="linearGradient2090"
+       x1="41.916767"
+       y1="126.2877"
+       x2="137.21471"
+       y2="126.2877"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-28.144374,15.112443)" />
+    <linearGradient
+       xlink:href="#linearGradient2088"
+       id="linearGradient2874"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(51.343032,-72.41036)"
+       x1="41.916767"
+       y1="126.2877"
+       x2="137.21471"
+       y2="126.2877" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter9427"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         numOctaves="1"
+         baseFrequency="0.002 0.107"
+         id="feTurbulence9421" />
+      <feColorMatrix
+         values="2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0.5"
+         result="result91"
+         id="feColorMatrix9423" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         xChannelSelector="R"
+         scale="14.3"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap9425"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix9808" />
+      <feTurbulence
+         id="feTurbulence9810"
+         type="fractalNoise"
+         numOctaves="5"
+         seed="1"
+         baseFrequency="0.013 0.013"
+         result="turbulence" />
+      <feDisplacementMap
+         in2="turbulence"
+         id="feDisplacementMap9812"
+         in="fbSourceGraphic"
+         scale="33.6449"
+         yChannelSelector="G"
+         xChannelSelector="R" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter9435"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         numOctaves="1"
+         baseFrequency="0.002 0.107"
+         id="feTurbulence9429" />
+      <feColorMatrix
+         values="2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0.5"
+         result="result91"
+         id="feColorMatrix9431" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         xChannelSelector="R"
+         scale="14.3"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap9433"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix9437" />
+      <feTurbulence
+         id="feTurbulence9439"
+         numOctaves="1"
+         baseFrequency="0.002 0.107" />
+      <feColorMatrix
+         id="feColorMatrix9441"
+         values="2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0.5"
+         result="result91" />
+      <feDisplacementMap
+         in2="result91"
+         id="feDisplacementMap9443"
+         yChannelSelector="A"
+         xChannelSelector="R"
+         scale="14.3"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient2090);fill-opacity:1;stroke-width:0.264999;filter:url(#filter9435)"
+       id="rect362"
+       width="100"
+       height="100"
+       x="13.772393"
+       y="102.52861"
+       ry="6.2665048"
+       transform="rotate(-11.08844)" />
+    <rect
+       style="fill:url(#linearGradient2874);fill-opacity:1;stroke-width:0.264999;filter:url(#filter9427)"
+       id="rect2872"
+       width="100"
+       height="100"
+       x="93.259796"
+       y="15.005805"
+       ry="6.2665048"
+       transform="rotate(23.639403)" />
+    <circle
+       id="path4683"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
+       cx="160.50182"
+       cy="88.490959"
+       r="0.39749998" />
+  </g>
+</svg>
